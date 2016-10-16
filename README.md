@@ -12,17 +12,15 @@ Mă bucur că citiți acest document, pentru că avem nevoie de voluntari pentru
 - Prezența și rularea testelor nu este opțională.
 - Documentația trebuie scrisă în timpul dezvoltării, nu după.
 
-## Code review
-
-[Detalii](CODE_REVIEW.md).
-
-## Ghid de colaborare
-
-[Detalii](CONTRIBUTING.md).
-
 ## Alte informații
 
-Dacă vezi ceva nu este în regulă, te rog [comunică](https://govithub.slack.com) problema să vedem cum o rezolvăm.
+- [Code Review](CODE_REVIEW.md)
+- [Ghid de colaborare](CONTRIBUTING.md)
+- [Ghid mesaje commit (en)](COMMIT.md)
+
+Dacă vezi ceva nu este în regulă, te rog [comunică](https://govithub.slack.com) problema, să vedem cum o rezolvăm.
+
+Pentru invite pe Slack trimite un mail la [tech@ithub.gov.ro](mailto:tech@ithub.gov.ro).
 
 </br>
 GovITHub este construit cu ajutorul voluntarilor.
