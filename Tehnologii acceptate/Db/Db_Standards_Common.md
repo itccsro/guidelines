@@ -26,6 +26,10 @@ Reffer to your chosen backed database platform documentation for types, lengths 
 
 Unless a small fixed size code (eg. `CHAR(5)`), preffer VARCHAR. The possible size overhead of variable length is more than compensated by the flexibility for future changes.
 
+## Time
+
+Preffer UTC time in the database. Altough Romania doe snot span multiple time zones, storing UTC avoids DST change anomalies (in November the same hour appears *twice* in the DST change day). If needed, convert to local time in presentation layer (ie. web front end).
+
 ### General considerations
 
 The length attribute for numeric types does not affect the range of values that can be stored in the column. Columns defined as `TINYINT(1)` or `TINYINT(20)` can store the exact same values. Instead, for integers, the length dictates the display width; for decimals, the length is the total number of digits that can be stored.
