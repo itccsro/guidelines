@@ -5,7 +5,7 @@ Este incurajata folosirea doar a tehnologiilor si versiunilor specificate mai jo
 
 | Nume        	| Versiune         | Link doc  |
 | ------------- |:----------------:| :--------:|
-| PostgreSQL|   | Ultima versiune* | [link]    |
+| PostgreSQL   | Ultima versiune* | [link]    |
 | MySQL      	| Ultima versiune* | [link]    |
 | MariaDB       | Ultima versiune* | [link]    |
 
