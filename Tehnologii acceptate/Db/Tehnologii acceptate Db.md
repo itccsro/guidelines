@@ -10,4 +10,4 @@ Este incurajata folosirea doar a tehnologiilor si versiunilor specificate mai jo
 
 \* Prin "Ultima versiune" se intelege ultima versiune stabila publicata. Fara alpha, beta, rc etc
 
-Toate bazele de date trebuie sa fie confome cu [standardele generale(Db_Standards_Common.md)].
+Toate bazele de date trebuie sa fie confome cu [standardele generale](Db_Standards_Common.md).
