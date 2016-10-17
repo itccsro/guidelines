@@ -50,10 +50,10 @@ Column constraints shall be present where needed
 
 Column data types chosen for each column will try to be the LEAST precise type that will accomodate ALL POSSIBLE VALUES in all cases. 
 
-Types that support optimization will be chosen (varchar, bit vs text, blob etc)
+Types that support optimization will be chosen (varchar, bit vs text, blob etc) <br/>
 
-| Type      	  	| Size         		| Description |
-| ----------------- |:-----------------:| :----------:|
+| Type      	   		| Size         		| Description |
+| --------------------- |:-----------------:| :----------:|
 | `CHAR[Length]` 		| Length bytes 					| A fixed-length field from 0 to 255 characters long   |
 | `VARCHAR[Length] ` 	| String length + 1 or 2 bytes	| A variable-length field from 0 to 65,535 characters long   |
 | `TINYTEXT`		  	| String length + 1 bytes		| A string with a maximum length of 255 characters   |
