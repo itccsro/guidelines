@@ -1,7 +1,7 @@
 #Db Standards CamelCase
 
-Acestea sunt standardele pentru Db daca folositi un limbaj cu variabile bazae pe CamelCase (C#, Java). <br/>
-Ele sunt scrise in engleza, pentu ca au mai mult sens.
+Acestea sunt standardele pentru Db daca folositi un limbaj cu variabile bazate pe CamelCase (C#, Java). 
+Ele sunt scrise in engleza, pentru ca au mai mult sens.
 
 ## Important
 
