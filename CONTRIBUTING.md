@@ -9,7 +9,7 @@
 
 - Deschide un pull request.
 - Pull-requestul trebuie sa descrie clar problema și să includă Github Issue id.
-- Înainte să trimiți, verifică coding sytle-ul și rulează testele.
+- Înainte să trimiți, verifică coding style-ul și rulează testele.
 
 ## Funcționalitate nouă sau modifici una existentă?
 
