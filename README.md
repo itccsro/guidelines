@@ -21,8 +21,6 @@ Mă bucur că citiți acest document, pentru că avem nevoie de voluntari pentru
 Get an invite and join the conversations! [![Slack Status](https://govitslack.herokuapp.com/badge.svg)](https://govitslack.herokuapp.com)  
 Dacă vezi ceva nu este în regulă, te rog [comunică](https://govithub.slack.com) problema, să vedem cum o rezolvăm.
 
-Pentru invite pe Slack trimite un mail la [tech@ithub.gov.ro](mailto:tech@ithub.gov.ro).
-
 </br>
 GovITHub este construit cu ajutorul voluntarilor.
 
