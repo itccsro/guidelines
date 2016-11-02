@@ -39,7 +39,3 @@ If you need absolute precision when using non-integers, `DECIMAL` is preferred o
 MySQL has a `BOOLEAN` type, which is just a `TINYINT(1)`, with `0` meaning `FALSE` and `1` meaning `TRUE`.
 
 MySQL also has several variants on the text types that allow for storing binary data. These types are `BINARY`, `VARBINARY`, `TINYBLOB`, `MEDIUMBLOB`, and `LONGBLOB`. Such types can be used for storing files or encrypted data.
-
-##Other standards
-
-If your language uses CamelCase, then also follow [this] (Db_Standards_CamelCase.md) guideline
