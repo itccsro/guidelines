@@ -2,6 +2,8 @@
 
 Mă bucur că citești acest document, pentru că avem nevoie de voluntari pentru a ajuta dezvoltarea acestui proiect.
 
+> Mobile First, Cloud Ready, Open by Default, Security & Privacy
+
 ## Reguli generale
 
 - Proiectul trebuie sa conțină un fișier README.md în care să apară informații relevante despre proiect.
