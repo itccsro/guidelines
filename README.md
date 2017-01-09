@@ -29,3 +29,6 @@ Dacă nu ai cont pe platforma de comunicare **Slack**, cere o invitație și al�
 GovITHub este construit cu ajutorul voluntarilor.
 
 Mulțumim! :heart: :heart: :heart:
+
+GovITHub is supported by BrowserStack
+![browserstack](https://cloud.githubusercontent.com/assets/645227/21771493/35de1cd0-d690-11e6-8a02-35360e9a2a93.png)
