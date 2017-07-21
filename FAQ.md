@@ -1,8 +1,7 @@
 TBD = Va fi detaliat in viitor
 
-#### Cum pun o intrebare?
+#### Cum adaug o intrebare?
 > Adaugi un nou issue: https://github.com/civictechro/guidelines/issues/new
-> Lista de intrebari ce nu le-am introdus inca in FAQ: https://github.com/civictechro/guidelines/issues
 
 #### Cum se abordeaza proiectele? 
 > TBD. Acum:
