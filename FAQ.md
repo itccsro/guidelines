@@ -1,5 +1,9 @@
 TBD = Va fi detaliat in viitor
 
+#### Cum pun o intrebare?
+> Adaugi un nou issue: https://github.com/civictechro/guidelines/issues/new
+> Lista de intrebari ce nu le-am introdus inca in FAQ: https://github.com/civictechro/guidelines/issues
+
 #### Cum se abordeaza proiectele? 
 > TBD. Acum:
 > 1) contacteaza-l pe coordonatorul de proiect
@@ -18,7 +22,7 @@ TBD = Va fi detaliat in viitor
 #### Technology stack-ul se alege in functie de voluntarii disponibili sau persoanele pentru un proiect se aleg in functie de technology stack?
 > Ambele :). Depinde de la proiect la proiect si de la echipa la echipa. Vom reveni cu mai multe detalii.
 
-#### Ce proiecte sunt deja defininte si unde pot fi accesate descrierile/caracteristicile lor?
+#### Ce proiecte sunt deja definite si unde pot fi accesate descrierile/caracteristicile lor?
 > Descrierea publica: https://civictech.ro/proiecte
 > Descrierea interna: https://membri.civictech.ro/projects
 > Job openings: https://membri.civictech.ro/openings
@@ -43,7 +47,7 @@ TBD = Va fi detaliat in viitor
 #### Fiind pe baza de voluntariat, deci fara buget, cum se platesc licentele, hosting-ul, etc? (sau exista vreun buget?)
 > TBD.
 > Dezvoltarea se face folosind un ecosistem opensource, daca nu este specificata altfel de catre client. 
-> Daca sunt necesare licente, ele vor fi finantate prin: sponsorizari, grants & fonduri europene, parteneriate, contributie membri fondatori  
+> Daca sunt necesare licente, ele vor fi finantate prin: sponsorizari, parteneriate, contributie membri fondatori, grants & fonduri europene.
 
 #### Cum arata development cycle-ul? 
 > TBD. Difera de la proiect la proiect. De regula: develop -> PR + code review -> merge -> deploy on qa -> test -> deploy on uat -> acceptance -> production. 
