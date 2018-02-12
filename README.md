@@ -25,7 +25,3 @@ Mă bucur că citești acest document, pentru că avem nevoie de voluntari pentr
 CivicTech Romania este construit cu ajutorul voluntarilor.
 
 Mulțumim! :heart: :heart: :heart:
-
-CivicTech Romania is supported by BrowserStack
-
-![browserstack](https://cloud.githubusercontent.com/assets/645227/21771493/35de1cd0-d690-11e6-8a02-35360e9a2a93.png)
