@@ -217,7 +217,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       border: 3px solid transparent;
       border-left-width: 0;
       border-right-width: 0;
-      border-bottom-color: $white;
+      text-decoration: underline;
     }
 
     .button:last-of-type a:hover, 
