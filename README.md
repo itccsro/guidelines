@@ -1,4 +1,7 @@
-[![Slack](https://img.shields.io/badge/slack-%23guidelines-green.svg)](https://civictechro.slack.com/messages/CAFLVGYJ0/)
+[![Slack](https://img.shields.io/badge/slack-%23guidelines-green.svg)](https://civictechro.slack.com/messages/CAFLVGYJ0/) 
+[![GitHub license](https://img.shields.io/github/license/civictechro/guidelines.svg)](https://github.com/civictechro/guidelines/blob/master/LICENSE) 
+
+[![GitHub issues by-label](https://img.shields.io/github/issues-raw/civictechro/guidelines/help%20wanted.svg)](https://github.com/civictechro/guidelines/issues) [![GitHub issues by-label](https://img.shields.io/github/issues-raw/civictechro/guidelines/good%20first%20task.svg)](https://github.com/civictechro/guidelines/issues) 
 
 # Open Source Guidelines 
 
