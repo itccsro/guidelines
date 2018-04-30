@@ -1,3 +1,5 @@
+[![Slack](https://img.shields.io/badge/slack-%23guidelines-green.svg)](https://civictechro.slack.com/messages/CAFLVGYJ0/)
+
 # Open Source Guidelines 
 
 *https://civictechro.github.io/guidelines/*
