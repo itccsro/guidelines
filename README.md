@@ -23,11 +23,13 @@ Tocmai de aceea am creat și acest ghid, pentru a stabili împreună cum putem c
 - Documentația trebuie scrisă în timpul dezvoltării, nu după.
 
 ## Alte informații
-- [Întrebări frecvente](FAQ.md)
-- [Code Review](CODE_REVIEW.md)
-- [Ghid de colaborare](CONTRIBUTING.md)
-- [Ghid mesaje commit (en)](COMMIT.md)
+- [Întrebări frecvente](/old_guides/FAQ.md)
+- [Code Review](/old_guides/CODE_REVIEW.md)
+- [Ghid de colaborare](/old_guides/CONTRIBUTING.md)
+- [Ghid mesaje commit (en)](/old_guides/COMMIT.md)
 
-CivicTech Romania este construit cu ajutorul voluntarilor.
+CivicTech România este construit cu ajutorul voluntarilor.
 
-Mulțumim! :heart: :heart: :heart:
+----------
+
+**Made with :heart: & :coffee: by [CivicTech România](https://civictech.ro/)**
