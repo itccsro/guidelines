@@ -10,7 +10,7 @@ $black:               #202a29; // gray-dark
 
 // Fonts
 $serif:               'Merriweather', Georgia, serif;
-$sans-serif:          'Source Sans Pro', sans-serif;
+$sans-serif:          'Roboto', Arial, sans-serif;
 
 // Mobile Breakpoints
 $mobile: new-breakpoint(min-width 0px max-width 640px 4);
@@ -103,7 +103,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
   h6 {
     font-family: $sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 300;
     line-height: 1.5em;
     margin-bottom: 15px;
@@ -212,6 +212,20 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       text-decoration: none;
     }
 
+    .button:last-of-type a {
+      border-radius: 0;
+      border: 3px solid transparent;
+      border-left-width: 0;
+      border-right-width: 0;
+      border-bottom-color: $white;
+    }
+
+    .button:last-of-type a:hover, 
+    .button:last-of-type a:focus, {
+      border-radius: 3px;
+      border-width: 3px;
+    }
+
     p {
       max-width: 700px;
       font-family: $serif;
@@ -223,8 +237,24 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       color: $white;
     }
 
+    p:last-of-type {
+      margin-top: unset;
+    }
+
     p.download_links {
       font-size: 16px;
+    }
+
+    em {
+      font-size: 15px;
+      display: block;
+      line-height: 25px;
+    }
+
+    hr {
+      height: 1px;
+      background: $white;
+      border: 0;
     }
 
     @include media($mobile) {
@@ -475,7 +505,8 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
 
     li {
       padding-left: 5px;
-      font-size: 15px;
+      font-size: 17px;
+      font-family: $sans-serif;
     }
 
     ul {
