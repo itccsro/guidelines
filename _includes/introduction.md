@@ -1,6 +1,6 @@
 # Open Source Guidelines
 
-CivicTech Romania este comunitatea celor care lucrează împreună ca să modernizeze România, folosind potențialul tehnologiei deschise (Open Source) și talentul specialiștilor din IT&C pentru a dezvolta noua generație de servicii digitale de utilitate publică din România. Mai multe detalii despre proiectele CivicTech România pe https://civictech.ro/.
+CivicTech Romania este comunitatea celor care lucrează împreună ca să modernizeze România, folosind potențialul tehnologiei deschise (Open Source) și talentul specialiștilor din IT&C pentru a dezvolta noua generație de servicii digitale de utilitate publică din România. Mai multe detalii despre proiectele CivicTech România pe [civictech.ro](https://civictech.ro/).
 
 
 Tocmai de aceea am creat și acest ghid, pentru a stabili împreună cum putem colabora la dezvoltarea acestor proiecte și pentru a strânge în jurul nostru o comunitate de oameni cu aceeași viziune ca și noi. În redactarea acestor guidelines ne-am folosit de experiența dobândită în mediul privat și de bunele practici promovate acolo, dar și de experiența de până acum în CivicTech România și GovITHub. 
