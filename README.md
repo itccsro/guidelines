@@ -9,7 +9,7 @@
 
 CivicTech România își dorește să folosească potențialul tehnologiei Open Source și talentul specialiștilor români pentru a dezvolta noi servicii digitale de utilitate publică. 
 
-Tocmai de aceea am creat și acest ghid, pentru a stabili împreună cum putem colabora la dezvoltarea acestor proiecte și pentru a strânge îm jurul nostru o comunitate de oameni cu aceeași viziune ca și noi. În redactarea acestor guidelines ne-am folosit de experiența dobândită în mediul privat și de bunele practici promovate acolo, dar și de experiența de până acum în CivicTech România și GovITHub. 
+Tocmai de aceea am creat și acest ghid, pentru a stabili împreună cum putem colabora la dezvoltarea acestor proiecte și pentru a strânge în jurul nostru o comunitate de oameni cu aceeași viziune ca și noi. În redactarea acestor guidelines ne-am folosit de experiența dobândită în mediul privat și de bunele practici promovate acolo, dar și de experiența de până acum în CivicTech România și GovITHub. 
 
 ***
 *Aceste guidelines sunt în continuă dezvoltare, folosind ca sursă de inspirație [The US Digital Services Playbook](https://playbook.cio.gov/), [GitHub Open Source Guides](https://opensource.guide/) dar și [setul de guidelines dezvoltat inițial](https://github.com/gov-ithub/guidelines) în cadrul GovITHub. Așteptăm propunerile voastre pe GitHub!*
@@ -40,12 +40,12 @@ Fișierele se pot edita și direct în browser, fără a fi necesară instalarea
 
 ## Reguli generale
 
-- Proiectul trebuie sa conțină un fișier README.md în care să apară informații relevante despre proiect.
+- Proiectul trebuie să conțină un fișier README.md în care să apară informații relevante despre proiect.
 - Cerințele și specificațiile trebuie să fie prezente în proiect. Dacă nu sunt, deschide un issue pe Github.
 - Codul trebuie scris în engleză (e.g.: numele variabilelor).
 - Componentele care interacționează cu utilizatorul trebuie să suporte [localizarea](https://en.wikipedia.org/wiki/Internationalization_and_localization) în diferite limbi.
- - Conținutul în limba română trebuie să folosească diacritice.
-- Toate proiectele trebuie să aiba o copie a [licenței](LICENSE) folosite.
+- Conținutul în limba română trebuie să folosească diacritice.
+- Toate proiectele trebuie să aibă o copie a [licenței](LICENSE) folosite.
 - Menționează canalul de Slack al proiectului în README.
 - Prezența și rularea testelor nu este opțională.
 - Documentația trebuie scrisă în timpul dezvoltării, nu după.
